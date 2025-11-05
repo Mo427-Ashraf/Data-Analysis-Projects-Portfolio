@@ -1,0 +1,13 @@
+LocationID,City,State,CountryID
+L001,Cairo,Cairo,CT01
+L002,Alexandria,Alexandria,CT01
+L003,Giza,Giza,CT01
+L004,Riyadh,Riyadh,CT02
+L005,Jeddah,Makkah,CT02
+L006,Dammam,Eastern,CT02
+L007,New York,New York,CT03
+L008,Los Angeles,California,CT03
+L009,Chicago,Illinois,CT03
+L010,Berlin,Berlin,CT04
+L011,Munich,Bavaria,CT04
+L012,Hamburg,Hamburg,CT04

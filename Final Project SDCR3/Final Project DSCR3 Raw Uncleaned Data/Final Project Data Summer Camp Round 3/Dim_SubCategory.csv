@@ -1,0 +1,10 @@
+SubCategoryID,SubCategoryName,CategoryID
+SC01,Mobile Phones,C01
+SC02,Televisions,C01
+SC03,Laptops,C01
+SC04,Refrigerators,C02
+SC05,Washing Machines,C02
+SC06,Men Clothing,C03
+SC07,Women Clothing,C03
+SC08,Fiction,C04
+SC09,Non-Fiction,C04
