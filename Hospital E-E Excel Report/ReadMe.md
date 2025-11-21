@@ -1,6 +1,6 @@
 # 🏥 Hospital Performance Analysis  
 ### End-to-End Excel Data Cleaning, Transformation, Analysis & Dashboards
-
+![Dashboard Page 3](PG3.png)
 This project analyzes hospital operational and clinical performance using a complete end-to-end Excel workflow.  
 It covers **data cleaning**, **transformation**, **feature engineering**, **pivot table analysis**, and **interactive dashboard creation** to help support decisions related to:
 
@@ -236,3 +236,4 @@ Feel free to reach out for feedback, collaboration, or analytics discussions.
 ## 📈 Pivot Tables – Summary
 ![Pivot Tables 1](PivotTables1.png)
 ![Pivot Tables 2](PivotTables2.png)
+
