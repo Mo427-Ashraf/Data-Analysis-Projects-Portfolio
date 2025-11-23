@@ -151,4 +151,8 @@ Improves service quality by identifying delay patterns, underperforming regions,
 | 4 | Customer Behavior | Loyalty & Retention | Orders per Customer | Retention and churn analysis |
 | 5 | Operations | Delivery Timeliness | DATEDIFF | SLA and logistics optimization |
 
+---
 
+## Schema Used
+![1st Schema](Schema.png)
+![2nd Schema](Schema2.png)
