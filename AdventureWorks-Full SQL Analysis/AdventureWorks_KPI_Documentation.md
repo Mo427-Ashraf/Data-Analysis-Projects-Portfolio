@@ -151,9 +151,4 @@ Improves service quality by identifying delay patterns, underperforming regions,
 | 4 | Customer Behavior | Loyalty & Retention | Orders per Customer | Retention and churn analysis |
 | 5 | Operations | Delivery Timeliness | DATEDIFF | SLA and logistics optimization |
 
----
 
-**Prepared by:** Data Analytics Team  
-**Tool:** SQL Server (AdventureWorks2022)  
-**Document Type:** Consolidated KPI Reference Guide  
-**Date:** November 2025
