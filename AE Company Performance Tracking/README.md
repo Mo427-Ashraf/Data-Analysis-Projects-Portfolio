@@ -1,5 +1,5 @@
 # 📊 AE Company — Sales Performance Tracking (Power BI)
-
+![Sales Overview](Sales%20Overview.png)
 Comprehensive sales performance analysis and dashboarding project for AE Company. This project uses CSV data sources, Power Query transformations, a star-schema Power BI data model, DAX measures, and a multi-page Power BI report to analyze sales, customers, product performance, order trends, and market contribution.
 
 The repository demonstrates an end-to-end business intelligence workflow: prepare source data, model relationships, create measures, design report pages, and communicate insights through an interactive Power BI dashboard.
