@@ -1,7 +1,7 @@
  
 
 # 📊 Chocolate Sales — Sales & Shipments Dashboard (Excel)
-
+![Product performance](Section2-ProductAnalysis.png)
 Comprehensive sales and shipments reporting workbook for a chocolate business. The workbook uses Excel tables, Power Query transformations, and the Data Model (Power Pivot) to deliver interactive dashboards, KPIs, and analytical views across time, categories, products, and sales teams.
 
 ## Table of contents
