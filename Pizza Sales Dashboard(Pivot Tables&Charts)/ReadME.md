@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales Dashboard – Excel Data Analytics Project
-
+![Pizza Sales Dashboard](Dashboard(1).png)
 **Tool Used:** Microsoft Excel  
 **Dataset:** Pizza Sales Dataset (`Pizza_Dataset.xlsx`)  
 **Techniques:** Pivot Tables • Pivot Charts • Data Cleaning • Dashboard Design • KPI Metrics • Trend Analysis  
@@ -164,4 +164,4 @@ This dashboard enables **real-time performance tracking** for the pizza shop’s
 
 📂 **Dashboard Preview**
 
-![Pizza Sales Dashboard](Dashboard(1).png)
+
